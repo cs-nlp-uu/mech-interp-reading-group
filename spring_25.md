@@ -4,7 +4,7 @@
 | 28.05.2025 | Ece Takmaz    | [Private] |
 | 11.06.2025 | Yupei Du      | [[Heimersheim and Nanda, (2024)]](https://arxiv.org/abs/2404.15255) [[Chen et al., (2025)]](https://arxiv.org/abs/2505.10039) [[Slides]](https://docs.google.com/presentation/d/1OKS6frbaOWfp-GIi0RI84q2v_ehkPpGCRsJuex2KRKw/edit?usp=sharing)    |
 | 25.06.2025 | Yingjin Song  | PatchSAE (Lim et al., ICLR2025) [[paper]](https://arxiv.org/pdf/2412.05276) [[slides]](https://github.com/cs-nlp-uu/mech-interp-reading-group/blob/main/slides/patchSAE.pdf)       |
-| 09.07.2025 |               |        |
-| 23.07.2025 |               |        |
+| 09.07.2025 |   cancelled            |    -    |
+| 23.07.2025 |   paper flash            |   [slides]     |
 | 06.08.2025 |               |        |
 | 20.08.2025 |               |        |
